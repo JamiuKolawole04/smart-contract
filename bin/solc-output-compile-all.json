@@ -1,0 +1,26 @@
+{
+    "sources": {
+        "c:/Users/DELL/Desktop/Documents/Docs/smart-contract/demo/storage.sol": {
+            "ast": {
+                "absolutePath": "c:/Users/DELL/Desktop/Documents/Docs/smart-contract/demo/storage.sol",
+                "exportedSymbols": {},
+                "id": 2,
+                "license": "MIT",
+                "nodeType": "SourceUnit",
+                "nodes": [
+                    {
+                        "id": 1,
+                        "literals": [
+                            "solidity",
+                            "0.8"
+                        ],
+                        "nodeType": "PragmaDirective",
+                        "src": "32:20:0"
+                    }
+                ],
+                "src": "32:22:0"
+            },
+            "id": 0
+        }
+    }
+}

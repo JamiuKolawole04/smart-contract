@@ -1,0 +1,65 @@
+{
+    "contractName": "Name",
+    "abi": [],
+    "metadata": "{\"compiler\":{\"version\":\"0.8.17+commit.8df45f5f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"c:/Users/DELL/Desktop/Documents/Docs/smart-contract/demo/index.sol\":\"Name\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"c:/Users/DELL/Desktop/Documents/Docs/smart-contract/demo/index.sol\":{\"keccak256\":\"0x89a93632130311c77c2539889e00150735b7ebb6ad0f9502e506ce4439c84223\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://85639e6da44bacad7929cafefa6b310208c6f1c444632ed11a0fa6982f042735\",\"dweb:/ipfs/QmUpVHYjAU8gNZGJDBaKvQaiKd2azA2Tn1Ryq6ZZRkoTAp\"]}},\"version\":1}",
+    "bytecode": "6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220b96d2f4a7d1a732df02ea115ff89a2726803746e4f42bb002627bde063de1fc564736f6c63430008110033",
+    "deployedBytecode": "6080604052600080fdfea2646970667358221220b96d2f4a7d1a732df02ea115ff89a2726803746e4f42bb002627bde063de1fc564736f6c63430008110033",
+    "sourceMap": "62:16:0:-:0;;;;;;;;;;;;;;;;;;;",
+    "deployedSourceMap": "62:16:0:-:0;;;;;",
+    "sourcePath": "c:/Users/DELL/Desktop/Documents/Docs/smart-contract/demo/index.sol",
+    "compiler": {
+        "name": "solc",
+        "version": "0.8.17+commit.8df45f5f"
+    },
+    "ast": {
+        "absolutePath": "c:/Users/DELL/Desktop/Documents/Docs/smart-contract/demo/index.sol",
+        "exportedSymbols": {
+            "Name": [
+                2
+            ]
+        },
+        "id": 3,
+        "license": "MIT",
+        "nodeType": "SourceUnit",
+        "nodes": [
+            {
+                "id": 1,
+                "literals": [
+                    "solidity",
+                    "0.8",
+                    ".17"
+                ],
+                "nodeType": "PragmaDirective",
+                "src": "35:23:0"
+            },
+            {
+                "abstract": false,
+                "baseContracts": [],
+                "canonicalName": "Name",
+                "contractDependencies": [],
+                "contractKind": "contract",
+                "fullyImplemented": true,
+                "id": 2,
+                "linearizedBaseContracts": [
+                    2
+                ],
+                "name": "Name",
+                "nameLocation": "71:4:0",
+                "nodeType": "ContractDefinition",
+                "nodes": [],
+                "scope": 3,
+                "src": "62:16:0",
+                "usedErrors": []
+            }
+        ],
+        "src": "35:45:0"
+    },
+    "functionHashes": {},
+    "gasEstimates": {
+        "creation": {
+            "codeDepositCost": "12600",
+            "executionCost": "66",
+            "totalCost": "12666"
+        }
+    }
+}
