@@ -32,3 +32,5 @@ contract SorageFactory {
         return simpleStorage.retriev();
     }
 }
+
+// $1,611.40000000
